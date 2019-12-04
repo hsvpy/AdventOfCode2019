@@ -22,3 +22,9 @@ BEAR IN MIND - there may be spoilers reading through this.
 * Part 1 - Intersections, eh?  Maybe you want to check out `set()`
 * Part 1 - Did you know `min()` takes a key argument?  Can you use that?
 * Part 2 - Consider tracking length with `enumerate()`
+
+# Day 4
+
+* Part 1 - Can you solve the problem using regular expressions and backreferences?
+* Part 1 - Can you solve the problem with `groupby()` from the `itertools` library?
+* Part 2 - Can you solve it with a regex?  Do you know the difference betweene `re.findall` and `re.finditer`?
