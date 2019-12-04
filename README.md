@@ -5,6 +5,12 @@ A list of additional challenges, repos and visualizations for AdventOfCode2019
 Welcom to HSV.py's Advent Of Code 2019 repository.  We wanted to build things as a community, and this is our first go
 at trying this out.  Feel free to write issues to let us know what you'd like to see from the HSV.py community.
 
+Make sure to stop by for our collaborative Advent Of Code sessions:
+
+* [Dec 7th](https://www.meetup.com/hsv-py/events/265907489/)
+* [Dec 14th](https://www.meetup.com/hsv-py/events/266166369/)
+* [Dec 21st](https://www.meetup.com/hsv-py/events/266166410/)
+
 Let's take a look at what this repo has to offer:
 
 ## Repositories
