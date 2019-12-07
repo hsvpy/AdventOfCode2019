@@ -33,3 +33,9 @@ BEAR IN MIND - there may be spoilers reading through this.
 
 * Part 1 - ParameterMode looks like a great use of Flag or IntFlag
 * Part 2 - Can you refactor your computer out so it can be used for day 2 or day 5?
+
+
+# Day 6
+
+* Part 1 - Can you solve the problem recursively?
+* Part 2 - Can you solve the problem using Dijkstra's algorithm?
