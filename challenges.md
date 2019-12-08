@@ -39,3 +39,8 @@ BEAR IN MIND - there may be spoilers reading through this.
 
 * Part 1 - Can you solve the problem recursively?
 * Part 2 - Can you solve the problem using Dijkstra's algorithm?
+
+# Day 7
+
+* Part 1 - Can you use `permutations` in the `itertools` library?
+* Part 2 - Can you solve the problem using `Threads` and `Queues`?
