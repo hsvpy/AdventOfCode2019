@@ -44,3 +44,17 @@ BEAR IN MIND - there may be spoilers reading through this.
 
 * Part 1 - Can you use `permutations` in the `itertools` library?
 * Part 2 - Can you solve the problem using `Threads` and `Queues`?
+
+# Day 8
+
+* Part 1 - Did you know about the `count` method on collections?
+* Part 2 - Were you able to `zip` anywhere?
+
+# Day 9
+
+* No challenges yet
+
+# Day 10
+
+* Part 1 - Do you know about `defaultdict`.
+* Part 2 - Do you know about `atan2`?  How about `cycle` from itertools?
