@@ -1,4 +1,4 @@
 # Index of Visualizations
 
-## Challenge 1
-* Add in a line here to explain what the visualization is, a link to it, and how to run it.
+## Challenge 3
+* MatPlotlib is needed to install.  Change the input to reflect your own input and just run [Day3](Day3.py)
