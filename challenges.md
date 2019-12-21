@@ -58,3 +58,24 @@ BEAR IN MIND - there may be spoilers reading through this.
 
 * Part 1 - Do you know about `defaultdict`.
 * Part 2 - Do you know about `atan2`?  How about `cycle` from itertools?
+
+# Day 11
+
+* Do you know about `%`.  Can you write your turn and move without any if statements?
+
+
+# Day 12
+
+* This one is hard enough, do you really need another challenge?
+
+# Day 13
+
+* This is the second program that you need your computer to have different input and output functions.  Can you generalize your computer to pass in different functions at construction time based on what input/output should be?
+
+# Day 14
+
+* Can you solve it with the `Counter` class from `collections`?
+
+# Day 15
+
+* No challenges yet
